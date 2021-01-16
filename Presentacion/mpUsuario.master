@@ -1,0 +1,143 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="mpUsuario.master.cs" Inherits="mpUsuario" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Slicitud de Tramites Online</title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table align="center" style="width: 70%;">
+            <tr>
+                <td align="center" bgcolor="#FF6600" colspan="4">
+                    <asp:Label ID="label" runat="server" Font-Bold="True" 
+                        Font-Names="Arial" Font-Size="XX-Large" ForeColor="White">Solicitud de Tramites Online</asp:Label>
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor="#FFCC66" style="border-spacing: inherit">
+                    &nbsp;</td>
+                <td bgcolor="#FFCC66" style="border-spacing: inherit">
+                    &nbsp;</td>
+                <td bgcolor="#FFCC66" style="border-spacing: inherit">
+                    &nbsp;</td>
+                <td bgcolor="#FFCC66" style="border-spacing: inherit">
+                    &nbsp;</td>
+            </tr>
+            <tr>
+                <td bgcolor="#FFCC66" style="border-spacing: inherit">
+                    &nbsp;</td>
+                <td align="center" bgcolor="#FFCC66" colspan="2" 
+                    style="border-spacing: inherit">
+                    <asp:Label ID="lblUsuario" runat="server" Font-Bold="True" Font-Names="Arial"></asp:Label>
+                </td>
+                <td bgcolor="#FFCC66" style="border-spacing: inherit">
+                    &nbsp;</td>
+            </tr>
+            <tr>
+                <td bgcolor="#FFCC66" style="border-spacing: inherit">
+                    &nbsp;</td>
+                <td align="center" bgcolor="#FFCC66" colspan="2" 
+                    style="border-spacing: inherit">
+                    &nbsp;</td>
+                <td bgcolor="#FFCC66" style="border-spacing: inherit">
+                    &nbsp;</td>
+            </tr>
+            <tr>
+                <td bgcolor="#FFCC66" style="border-spacing: inherit">
+                    &nbsp;</td>
+                <td align="center" bgcolor="#FFCC66" style="border-spacing: inherit">
+                    <asp:LinkButton ID="LinkButton1" runat="server" Font-Bold="True" 
+                        Font-Names="Arial" PostBackUrl="~/frmABM_de_Entidades.aspx" 
+                        >ABM de Entidades</asp:LinkButton>
+                </td>
+                <td align="center" bgcolor="#FFCC66" style="border-spacing: inherit">
+                    <asp:LinkButton ID="LinkButton4" runat="server" Font-Bold="True" 
+                        Font-Names="Arial" PostBackUrl="~/frmRegistrar_una_Solicitud.aspx">Registrar una Solicitud</asp:LinkButton>
+                </td>
+                <td bgcolor="#FFCC66" style="border-spacing: inherit">
+                    &nbsp;</td>
+            </tr>
+            <tr>
+                <td bgcolor="#FFCC66" style="border-spacing: inherit">
+                    &nbsp;</td>
+                <td align="center" bgcolor="#FFCC66" style="border-spacing: inherit">
+                    <asp:LinkButton ID="LinkButton3" runat="server" Font-Bold="True" 
+                        Font-Names="Arial" PostBackUrl="~/frmABM_de_Empleados.aspx">ABM de Empleados</asp:LinkButton>
+                </td>
+                <td align="center" bgcolor="#FFCC66" style="border-spacing: inherit">
+                    <asp:LinkButton ID="LinkButton5" runat="server" Font-Bold="True" 
+                        Font-Names="Arial" PostBackUrl="~/frmCambio_Estado_Solicitud.aspx">Cambio Estado Solicitud</asp:LinkButton>
+                </td>
+                <td bgcolor="#FFCC66" style="border-spacing: inherit">
+                    &nbsp;</td>
+            </tr>
+            <tr>
+                <td bgcolor="#FFCC66" style="border-spacing: inherit">
+                    &nbsp;</td>
+                <td align="center" bgcolor="#FFCC66" style="border-spacing: inherit">
+                    <asp:LinkButton ID="LinkButton2" runat="server" Font-Bold="True" 
+                        Font-Names="Arial" PostBackUrl="~/frmABM_de_Tipos_de_Tramites.aspx">ABM de Tipos de Tramites</asp:LinkButton>
+                </td>
+                <td align="center" bgcolor="#FFCC66" style="border-spacing: inherit">
+                    <asp:LinkButton ID="LinkButton6" runat="server" Font-Bold="True" 
+                        Font-Names="Arial" PostBackUrl="~/frmListado_Estado_de_Solicitudes.aspx">Listado Estado de Solicitudes.</asp:LinkButton>
+                </td>
+                <td bgcolor="#FFCC66" style="border-spacing: inherit">
+                    &nbsp;</td>
+            </tr>
+            <tr>
+                <td bgcolor="#FFCC66" style="border-spacing: inherit">
+                    &nbsp;</td>
+                <td align="center" bgcolor="#FFCC66" style="border-spacing: inherit">
+                    <asp:LinkButton ID="lbtnCerrar_Secion" runat="server" Font-Bold="True" 
+                        Font-Names="Arial" 
+                        onclick="lbtnCerrar_Secion_Click">Cerrar Sesion</asp:LinkButton>
+                </td>
+                <td align="center" bgcolor="#FFCC66" style="border-spacing: inherit">
+                    <asp:LinkButton ID="LinkButton7" runat="server" Font-Bold="True" 
+                        Font-Names="Arial" PostBackUrl="~/frmListado_Solicitudes_por_Fecha.aspx">Listado Solicitudes por Fecha</asp:LinkButton>
+                </td>
+                <td bgcolor="#FFCC66" style="border-spacing: inherit">
+                    &nbsp;</td>
+            </tr>
+            <tr>
+                <td bgcolor="#FFCC66" style="border-spacing: inherit">
+                    &nbsp;</td>
+                <td bgcolor="#FFCC66" style="border-spacing: inherit">
+                    &nbsp;</td>
+                <td bgcolor="#FFCC66" style="border-spacing: inherit">
+                    &nbsp;</td>
+                <td bgcolor="#FFCC66" style="border-spacing: inherit">
+                    &nbsp;</td>
+            </tr>
+            <tr>
+                <td bgcolor="#FFCC66" style="border-spacing: inherit">
+                    &nbsp;</td>
+                <td align="center" bgcolor="White" colspan="2" style="border-spacing: inherit">
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+                </td>
+                <td bgcolor="#FFCC66" style="border-spacing: inherit">
+                    &nbsp;</td>
+            </tr>
+            <tr>
+                <td bgcolor="#FFCC66" style="border-spacing: inherit">
+                    &nbsp;</td>
+                <td bgcolor="#FFCC66" style="border-spacing: inherit">
+                    &nbsp;</td>
+                <td bgcolor="#FFCC66" style="border-spacing: inherit">
+                    &nbsp;</td>
+                <td bgcolor="#FFCC66" style="border-spacing: inherit">
+                    &nbsp;</td>
+            </tr>
+            </table>
+    </div>
+    </form>
+</body>
+</html>

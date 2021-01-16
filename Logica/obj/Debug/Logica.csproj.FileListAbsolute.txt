@@ -1,0 +1,71 @@
+C:\Users\mayco\Desktop\PRO_2019\Logica\bin\Debug\Logica.dll
+C:\Users\mayco\Desktop\PRO_2019\Logica\bin\Debug\Logica.pdb
+C:\Users\mayco\Desktop\PRO_2019\Logica\bin\Debug\Entidades_Compartidas.dll
+C:\Users\mayco\Desktop\PRO_2019\Logica\bin\Debug\Persistencia.dll
+C:\Users\mayco\Desktop\PRO_2019\Logica\bin\Debug\Entidades_Compartidas.pdb
+C:\Users\mayco\Desktop\PRO_2019\Logica\bin\Debug\Persistencia.pdb
+C:\Users\mayco\Desktop\PRO_2019\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\mayco\Desktop\PRO_2019\Logica\obj\Debug\Logica.dll
+C:\Users\mayco\Desktop\PRO_2019\Logica\obj\Debug\Logica.pdb
+C:\Users\mayco\Google Drive\BIOS\PRO_2019\App\Logica\bin\Debug\Logica.dll
+C:\Users\mayco\Google Drive\BIOS\PRO_2019\App\Logica\bin\Debug\Logica.pdb
+C:\Users\mayco\Google Drive\BIOS\PRO_2019\App\Logica\bin\Debug\Entidades_Compartidas.dll
+C:\Users\mayco\Google Drive\BIOS\PRO_2019\App\Logica\bin\Debug\Persistencia.dll
+C:\Users\mayco\Google Drive\BIOS\PRO_2019\App\Logica\bin\Debug\Entidades_Compartidas.pdb
+C:\Users\mayco\Google Drive\BIOS\PRO_2019\App\Logica\bin\Debug\Persistencia.pdb
+C:\Users\mayco\Google Drive\BIOS\PRO_2019\App\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\mayco\Google Drive\BIOS\PRO_2019\App\Logica\obj\Debug\Logica.dll
+C:\Users\mayco\Google Drive\BIOS\PRO_2019\App\Logica\obj\Debug\Logica.pdb
+C:\Users\mayco\Google Drive\BIOS\PRO_2019 V2\App\Logica\bin\Debug\Logica.dll
+C:\Users\mayco\Google Drive\BIOS\PRO_2019 V2\App\Logica\bin\Debug\Logica.pdb
+C:\Users\mayco\Google Drive\BIOS\PRO_2019 V2\App\Logica\bin\Debug\Entidades_Compartidas.dll
+C:\Users\mayco\Google Drive\BIOS\PRO_2019 V2\App\Logica\bin\Debug\Persistencia.dll
+C:\Users\mayco\Google Drive\BIOS\PRO_2019 V2\App\Logica\bin\Debug\Entidades_Compartidas.pdb
+C:\Users\mayco\Google Drive\BIOS\PRO_2019 V2\App\Logica\bin\Debug\Persistencia.pdb
+C:\Users\mayco\Google Drive\BIOS\PRO_2019 V2\App\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\mayco\Google Drive\BIOS\PRO_2019 V2\App\Logica\obj\Debug\Logica.dll
+C:\Users\mayco\Google Drive\BIOS\PRO_2019 V2\App\Logica\obj\Debug\Logica.pdb
+C:\Users\mayco\Documents\Proyectos Web\01.Net\03.Bios\04.Proyecto Final\PRO_2019 V2\App\Logica\bin\Debug\Logica.dll
+C:\Users\mayco\Documents\Proyectos Web\01.Net\03.Bios\04.Proyecto Final\PRO_2019 V2\App\Logica\bin\Debug\Logica.pdb
+C:\Users\mayco\Documents\Proyectos Web\01.Net\03.Bios\04.Proyecto Final\PRO_2019 V2\App\Logica\bin\Debug\Entidades_Compartidas.dll
+C:\Users\mayco\Documents\Proyectos Web\01.Net\03.Bios\04.Proyecto Final\PRO_2019 V2\App\Logica\bin\Debug\Persistencia.dll
+C:\Users\mayco\Documents\Proyectos Web\01.Net\03.Bios\04.Proyecto Final\PRO_2019 V2\App\Logica\bin\Debug\Entidades_Compartidas.pdb
+C:\Users\mayco\Documents\Proyectos Web\01.Net\03.Bios\04.Proyecto Final\PRO_2019 V2\App\Logica\bin\Debug\Persistencia.pdb
+C:\Users\mayco\Documents\Proyectos Web\01.Net\03.Bios\04.Proyecto Final\PRO_2019 V2\App\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\mayco\Documents\Proyectos Web\01.Net\03.Bios\04.Proyecto Final\PRO_2019 V2\App\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\mayco\Documents\Proyectos Web\01.Net\03.Bios\04.Proyecto Final\PRO_2019 V2\App\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\mayco\Documents\Proyectos Web\01.Net\03.Bios\04.Proyecto Final\PRO_2019 V2\App\Logica\obj\Debug\Logica.dll
+C:\Users\mayco\Documents\Proyectos Web\01.Net\03.Bios\04.Proyecto Final\PRO_2019 V2\App\Logica\obj\Debug\Logica.pdb
+C:\Users\mayco\Desktop\App\Logica\bin\Debug\Logica.dll
+C:\Users\mayco\Desktop\App\Logica\bin\Debug\Logica.pdb
+C:\Users\mayco\Desktop\App\Logica\bin\Debug\Entidades_Compartidas.dll
+C:\Users\mayco\Desktop\App\Logica\bin\Debug\Persistencia.dll
+C:\Users\mayco\Desktop\App\Logica\bin\Debug\Entidades_Compartidas.pdb
+C:\Users\mayco\Desktop\App\Logica\bin\Debug\Persistencia.pdb
+C:\Users\mayco\Desktop\App\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\mayco\Desktop\App\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\mayco\Desktop\App\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\mayco\Desktop\App\Logica\obj\Debug\Logica.dll
+C:\Users\mayco\Desktop\App\Logica\obj\Debug\Logica.pdb
+C:\Users\mayco\Documents\Proyectos Web\01.Net\03.Bios\04.Proyecto Final\App\Logica\bin\Debug\Logica.dll
+C:\Users\mayco\Documents\Proyectos Web\01.Net\03.Bios\04.Proyecto Final\App\Logica\bin\Debug\Logica.pdb
+C:\Users\mayco\Documents\Proyectos Web\01.Net\03.Bios\04.Proyecto Final\App\Logica\bin\Debug\Entidades_Compartidas.dll
+C:\Users\mayco\Documents\Proyectos Web\01.Net\03.Bios\04.Proyecto Final\App\Logica\bin\Debug\Persistencia.dll
+C:\Users\mayco\Documents\Proyectos Web\01.Net\03.Bios\04.Proyecto Final\App\Logica\bin\Debug\Entidades_Compartidas.pdb
+C:\Users\mayco\Documents\Proyectos Web\01.Net\03.Bios\04.Proyecto Final\App\Logica\bin\Debug\Persistencia.pdb
+C:\Users\mayco\Documents\Proyectos Web\01.Net\03.Bios\04.Proyecto Final\App\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\mayco\Documents\Proyectos Web\01.Net\03.Bios\04.Proyecto Final\App\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\mayco\Documents\Proyectos Web\01.Net\03.Bios\04.Proyecto Final\App\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\mayco\Documents\Proyectos Web\01.Net\03.Bios\04.Proyecto Final\App\Logica\obj\Debug\Logica.dll
+C:\Users\mayco\Documents\Proyectos Web\01.Net\03.Bios\04.Proyecto Final\App\Logica\obj\Debug\Logica.pdb
+C:\Users\mayco\Documents\Proyectos Web\00.Documentacion\01.Net Framework\03.Bios\04.Proyecto Final\App\Logica\bin\Debug\Logica.dll
+C:\Users\mayco\Documents\Proyectos Web\00.Documentacion\01.Net Framework\03.Bios\04.Proyecto Final\App\Logica\bin\Debug\Logica.pdb
+C:\Users\mayco\Documents\Proyectos Web\00.Documentacion\01.Net Framework\03.Bios\04.Proyecto Final\App\Logica\bin\Debug\Entidades_Compartidas.dll
+C:\Users\mayco\Documents\Proyectos Web\00.Documentacion\01.Net Framework\03.Bios\04.Proyecto Final\App\Logica\bin\Debug\Persistencia.dll
+C:\Users\mayco\Documents\Proyectos Web\00.Documentacion\01.Net Framework\03.Bios\04.Proyecto Final\App\Logica\bin\Debug\Entidades_Compartidas.pdb
+C:\Users\mayco\Documents\Proyectos Web\00.Documentacion\01.Net Framework\03.Bios\04.Proyecto Final\App\Logica\bin\Debug\Persistencia.pdb
+C:\Users\mayco\Documents\Proyectos Web\00.Documentacion\01.Net Framework\03.Bios\04.Proyecto Final\App\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\mayco\Documents\Proyectos Web\00.Documentacion\01.Net Framework\03.Bios\04.Proyecto Final\App\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\mayco\Documents\Proyectos Web\00.Documentacion\01.Net Framework\03.Bios\04.Proyecto Final\App\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\mayco\Documents\Proyectos Web\00.Documentacion\01.Net Framework\03.Bios\04.Proyecto Final\App\Logica\obj\Debug\Logica.dll
+C:\Users\mayco\Documents\Proyectos Web\00.Documentacion\01.Net Framework\03.Bios\04.Proyecto Final\App\Logica\obj\Debug\Logica.pdb

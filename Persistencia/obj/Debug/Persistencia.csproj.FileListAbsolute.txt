@@ -1,0 +1,57 @@
+C:\Users\mayco\Desktop\PRO_2019\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\mayco\Desktop\PRO_2019\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\mayco\Desktop\PRO_2019\Persistencia\bin\Debug\Entidades_Compartidas.dll
+C:\Users\mayco\Desktop\PRO_2019\Persistencia\bin\Debug\Entidades_Compartidas.pdb
+C:\Users\mayco\Desktop\PRO_2019\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\mayco\Desktop\PRO_2019\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\mayco\Desktop\PRO_2019\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\mayco\Google Drive\BIOS\PRO_2019\App\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\mayco\Google Drive\BIOS\PRO_2019\App\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\mayco\Google Drive\BIOS\PRO_2019\App\Persistencia\bin\Debug\Entidades_Compartidas.dll
+C:\Users\mayco\Google Drive\BIOS\PRO_2019\App\Persistencia\bin\Debug\Entidades_Compartidas.pdb
+C:\Users\mayco\Google Drive\BIOS\PRO_2019\App\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\mayco\Google Drive\BIOS\PRO_2019\App\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\mayco\Google Drive\BIOS\PRO_2019\App\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\mayco\Google Drive\BIOS\PRO_2019 V2\App\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\mayco\Google Drive\BIOS\PRO_2019 V2\App\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\mayco\Google Drive\BIOS\PRO_2019 V2\App\Persistencia\bin\Debug\Entidades_Compartidas.dll
+C:\Users\mayco\Google Drive\BIOS\PRO_2019 V2\App\Persistencia\bin\Debug\Entidades_Compartidas.pdb
+C:\Users\mayco\Google Drive\BIOS\PRO_2019 V2\App\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\mayco\Google Drive\BIOS\PRO_2019 V2\App\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\mayco\Google Drive\BIOS\PRO_2019 V2\App\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\mayco\Documents\Proyectos Web\01.Net\03.Bios\04.Proyecto Final\PRO_2019 V2\App\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\mayco\Documents\Proyectos Web\01.Net\03.Bios\04.Proyecto Final\PRO_2019 V2\App\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\mayco\Documents\Proyectos Web\01.Net\03.Bios\04.Proyecto Final\PRO_2019 V2\App\Persistencia\bin\Debug\Entidades_Compartidas.dll
+C:\Users\mayco\Documents\Proyectos Web\01.Net\03.Bios\04.Proyecto Final\PRO_2019 V2\App\Persistencia\bin\Debug\Entidades_Compartidas.pdb
+C:\Users\mayco\Documents\Proyectos Web\01.Net\03.Bios\04.Proyecto Final\PRO_2019 V2\App\Persistencia\obj\Debug\Persistencia.csprojAssemblyReference.cache
+C:\Users\mayco\Documents\Proyectos Web\01.Net\03.Bios\04.Proyecto Final\PRO_2019 V2\App\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\mayco\Documents\Proyectos Web\01.Net\03.Bios\04.Proyecto Final\PRO_2019 V2\App\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+C:\Users\mayco\Documents\Proyectos Web\01.Net\03.Bios\04.Proyecto Final\PRO_2019 V2\App\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\mayco\Documents\Proyectos Web\01.Net\03.Bios\04.Proyecto Final\PRO_2019 V2\App\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\mayco\Desktop\App\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\mayco\Desktop\App\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\mayco\Desktop\App\Persistencia\bin\Debug\Entidades_Compartidas.dll
+C:\Users\mayco\Desktop\App\Persistencia\bin\Debug\Entidades_Compartidas.pdb
+C:\Users\mayco\Desktop\App\Persistencia\obj\Debug\Persistencia.csprojAssemblyReference.cache
+C:\Users\mayco\Desktop\App\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\mayco\Desktop\App\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+C:\Users\mayco\Desktop\App\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\mayco\Desktop\App\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\mayco\Documents\Proyectos Web\01.Net\03.Bios\04.Proyecto Final\App\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\mayco\Documents\Proyectos Web\01.Net\03.Bios\04.Proyecto Final\App\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\mayco\Documents\Proyectos Web\01.Net\03.Bios\04.Proyecto Final\App\Persistencia\bin\Debug\Entidades_Compartidas.dll
+C:\Users\mayco\Documents\Proyectos Web\01.Net\03.Bios\04.Proyecto Final\App\Persistencia\bin\Debug\Entidades_Compartidas.pdb
+C:\Users\mayco\Documents\Proyectos Web\01.Net\03.Bios\04.Proyecto Final\App\Persistencia\obj\Debug\Persistencia.csprojAssemblyReference.cache
+C:\Users\mayco\Documents\Proyectos Web\01.Net\03.Bios\04.Proyecto Final\App\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\mayco\Documents\Proyectos Web\01.Net\03.Bios\04.Proyecto Final\App\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+C:\Users\mayco\Documents\Proyectos Web\01.Net\03.Bios\04.Proyecto Final\App\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\mayco\Documents\Proyectos Web\01.Net\03.Bios\04.Proyecto Final\App\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\mayco\Documents\Proyectos Web\00.Documentacion\01.Net Framework\03.Bios\04.Proyecto Final\App\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\mayco\Documents\Proyectos Web\00.Documentacion\01.Net Framework\03.Bios\04.Proyecto Final\App\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\mayco\Documents\Proyectos Web\00.Documentacion\01.Net Framework\03.Bios\04.Proyecto Final\App\Persistencia\bin\Debug\Entidades_Compartidas.dll
+C:\Users\mayco\Documents\Proyectos Web\00.Documentacion\01.Net Framework\03.Bios\04.Proyecto Final\App\Persistencia\bin\Debug\Entidades_Compartidas.pdb
+C:\Users\mayco\Documents\Proyectos Web\00.Documentacion\01.Net Framework\03.Bios\04.Proyecto Final\App\Persistencia\obj\Debug\Persistencia.csprojAssemblyReference.cache
+C:\Users\mayco\Documents\Proyectos Web\00.Documentacion\01.Net Framework\03.Bios\04.Proyecto Final\App\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\mayco\Documents\Proyectos Web\00.Documentacion\01.Net Framework\03.Bios\04.Proyecto Final\App\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+C:\Users\mayco\Documents\Proyectos Web\00.Documentacion\01.Net Framework\03.Bios\04.Proyecto Final\App\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\mayco\Documents\Proyectos Web\00.Documentacion\01.Net Framework\03.Bios\04.Proyecto Final\App\Persistencia\obj\Debug\Persistencia.pdb
